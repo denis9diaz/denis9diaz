@@ -1,6 +1,6 @@
 <!-- Imagen -->
 <p align="center">
-    <img src="https://res.cloudinary.com/dxzhssh9m/image/upload/v1742400755/yo_duauig.png" alt="Denis Díaz" width="150" height="150" style="border-radius: 50%; border: 5px solid #000;"/>
+    <img src="[https://res.cloudinary.com/dxzhssh9m/image/upload/v1742400755/yo_duauig.png](https://res.cloudinary.com/dxzhssh9m/image/upload/v1715944766/Denis_D%C3%ADaz_fawktz.png)"/>
 </p>
 
 <h3 align="center">Desarrollador Full Stack con habilidades en liderazgo y colaboración en equipo.</h3>
