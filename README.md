@@ -42,7 +42,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://astro.build/assets/images/astro-icon-dark.svg" alt="astro" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Astro_Logo.svg" alt="astro" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
