@@ -1,6 +1,6 @@
 <!-- Imagen -->
 <p align="center">
-    <img src="https://res.cloudinary.com/dxzhssh9m/image/upload/v1715944766/Denis_D%C3%ADaz_fawktz.png" alt="Denis Díaz" width="100%"/>
+    <img src="https://res.cloudinary.com/dxzhssh9m/image/upload/v1742402495/Banner_LinkedIn_2_nvt2ob.png" alt="Denis Díaz" width="100%"/>
 </p>
 
 <h3 align="center">Desarrollador Full Stack en Madrid, España.</h3>
