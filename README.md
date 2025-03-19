@@ -39,7 +39,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
