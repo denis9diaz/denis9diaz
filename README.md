@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en varios proyectos personales y colectivos.
 
-- 👯 Estoy buscando colaborar en proyectos que impacten positivamente en la comunidad y que ofrezcan oportunidades de aprendizaje y crecimiento.
+- 👯 Estoy buscando colaborar en proyectos que ofrezcan oportunidades de aprendizaje y crecimiento.
 
 - 📫 Puedes contactarme a través de mi correo electrónico: <strong>denis9diaz@hotmail.com</strong>
 
